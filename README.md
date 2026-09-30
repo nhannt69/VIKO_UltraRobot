@@ -1,4 +1,8 @@
 # Welding Auto Inspection Project
+## Demo
+[![Welding Auto Inspection Demo](https://img.youtube.com/vi/LXmQidqH_UU/hqdefault.jpg)](https://youtu.be/LXmQidqH_UU)
+
+
 
 ## Project Overview
 The Welding Auto Inspection project aims to inspect the surface of welds using a Micro Epsilon 30x2-50 laser system combined with a Basler camera for automated weld identification. The project has successfully integrated multiple modules, resulting in a fully automated inspection process.
@@ -41,7 +45,7 @@ The Welding Auto Inspection project aims to inspect the surface of welds using a
 | Moving and Laser Scan | 13.50 seconds          |
 | Inspection            | 2.00 seconds           |
 | View 3D               | 0.50 seconds           |
-| Inspection Analysis   | ? seconds              |
+| Inspection Analysis   | 0.05 seconds              |
 | **Total Time**        | **16.57 seconds**      |
 
 ## Project Team
