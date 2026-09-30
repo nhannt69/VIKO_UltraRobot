@@ -49,7 +49,6 @@ The Welding Auto Inspection project aims to inspect the surface of welds using a
 | **Total Time**        | **16.57 seconds**      |
 
 ## Project Team
-- **Dr. Hung Vo Tan** - Project Leader
 - **Mr. Nhan Nguyen Trong** - Backend - Vision and Laser Module
 - **Mr. Quan Nguyen Dinh** - Backend - Robotics and Automation Engineer
 - **Mr. Sang Nguyen Huu** - Research - Laser Control
