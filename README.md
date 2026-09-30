@@ -52,6 +52,7 @@ The Welding Auto Inspection project aims to inspect the surface of welds using a
 - **Mr. Nhan Nguyen Trong** - Backend - Vision and Laser Module
 - **Mr. Quan Nguyen Dinh** - Backend - Robotics and Automation Engineer
 - **Mr. Sang Nguyen Huu** - Research - Laser Control
+- **Mr. Nguyen Dinh Tuan** - Software 
 
 ## Technical
 - Pretrained-weight: [Welding Identification and Welding Inspection](https://drive.google.com/drive/folders/1H2_BYRHt6EowTpSgy4vyFixbaU_DbkCx?usp=drive_link)
